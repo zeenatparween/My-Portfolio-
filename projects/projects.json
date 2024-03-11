@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Educity Collage Website",
+    "desc": "This Website is developed for users to see the information about Educity Collage.",
+    "category": "React Js",
+    "links": {
+      "view": "https://sprightly-flan-6feeca.netlify.app/",
+      "code": "https://github.com/zeenatparween/Educity-University-Website"
+    }
+  },
+  {
+    "name": "Dice Game",
+    "desc": "This Dice Game is played by the users, Where users roll a virtual dice and aim to match a target score.",
+    "category": "React Js",
+    "links": {
+      "view": "https://statuesque-semifreddo-8d72af.netlify.app/",
+      "code": "https://github.com/zeenatparween/React-Project-Two"
+    }
+  },
+  {
+    "name": "Movies App",
+    "desc": "The Movies App Application allows users to explore and discover information about movies, including details about the cast, release date, and rating.",
+    "category": "MERN",
+    "links": {
+      "view": "https://github.com/zeenatparween/MERN-Stack-Movies-App/blob/main/README.md",
+      "code": "https://github.com/zeenatparween/MERN-Stack-Movies-App?tab=readme-ov-file"
+    }
+  },
+  {
+    "name": "Minor-Project",
+    "desc": "This is the Real-state project, Where intuitive design incorporates a dynamic homepage with featured properties, detailed listings with high-quality images  ",
+    "category": "HTML  and CSS ",
+    "links": {
+      "view": "https://sprightly-bienenstitch-3b9774.netlify.app/",
+      "code": "https://github.com/zeenatparween/Real-Estate-project"
+    }
+  },
+  {
+    "name": "Beat-Project",
+    "desc": "This is the Sound Beats project, developed with HTML and CSS, delivers an immersive audio experience through a stylish and responsive interface.  ",
+    "category": "HTML  and CSS ",
+    "links": {
+      "view": "https://celadon-custard-61beb3.netlify.app/",
+      "code": "https://github.com/zeenatparween/Beats-project"
+    }
+  }
+]
